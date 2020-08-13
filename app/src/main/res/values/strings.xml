@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EngCalcShabalkova</string>
+    <string name="engButttonText">Инж</string>
+    <string name="buttonUsualText">ОБЧ</string>
+    <string name="buttonSRText">кв. корень</string>
+    <string name="buttonDegreeText">Степ.</string>
+    <string name="buttonTenDegreeText">10 в степ.</string>
+    <string name="buttonLogText">log</string>
+    <string name="buttonInText">In</string>
+    <string name="button2DegreeText">кв. степ.</string>
+    <string name="buttonExpText">exp</string>
+    <string name="buttonModText">mod</string>
+</resources>
